@@ -20,5 +20,5 @@ The circuit uses **four BC547 NPN transistors** as switches controlled by a **ca
 
 ## 📸 Circuit design
 
-![Circuit Diagram](scematicimage.jpeg)
+![Circuit Diagram](layout.png)
 
