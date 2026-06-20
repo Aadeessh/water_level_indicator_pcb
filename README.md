@@ -15,3 +15,10 @@ The circuit uses **four BC547 NPN transistors** as switches controlled by a **ca
 1. **Sensor signal increases** → Transistor base voltage increases
 2. **Transistors turn ON sequentially** → LEDs light up in order
 3. **At critical level (Red LED)** → Buzzer activates for alarm
+
+---
+
+## 📸 Circuit design
+
+![Circuit Diagram](scematicimage.jpeg)
+
